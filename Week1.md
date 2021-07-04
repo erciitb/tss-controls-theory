@@ -11,6 +11,6 @@ This week we will learn about:
 Click on the following link to access the material for Week 1 and have a more engaging experience.
 [Week 1 Material](https://colab.research.google.com/drive/1uOsE_tVoBd8ANP4vq-xk6BhoZzq9OQC9?usp=sharing#scrollTo=968b7a07)
 
-Note: This module for controls has been divided into day-wise sections to help you follow the material timely. This document primarily aims to consolidate key ideas and definitions that can serve as a handy guide while you study controls. Many external learning resources have been referenced and are highly recommended to gain a thorough understanding of the topic. 
+**Note**: This module for controls has been divided into day-wise sections to help you follow the material timely. This document primarily aims to consolidate key ideas and definitions that can serve as a handy guide while you study controls. Many external learning resources have been referenced and are highly recommended to gain a thorough understanding of the topic. 
 
 Let's begin!
