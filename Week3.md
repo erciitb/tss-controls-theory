@@ -5,11 +5,11 @@ Welcome to the **Week 3** of **Controls Theory Bootcamp** organized by the **Ele
 
 The following topics will be covered-
 
-*	Introduction to MATLAB
-   * creating matrices and functions 
-   * solving ODEs 
-   * plotting graphs 
-   * creating graphics
+*	Introduction to MATLAB - creating matrices and functions, solving ODEs, plotting graphs and creating graphics.
+* Introduction to Simulink - some fundamental mathematical blocks and modelling systems with block diagrams.
+* Analysing a physical system using the concepts of Control Theory,make a beautiful simulation of the system using MATLAB graphics
+and creating a block diagram of the physical system in Simulink.
+
 
 
 
