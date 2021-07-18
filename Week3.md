@@ -12,10 +12,10 @@ The following topics will be covered-
 
 *	Introduction to MATLAB
 
-  *	creating matrices and functions
-  *	solving ODEs
-  *	plotting graphs
-  *	creating graphics
+  > creating matrices and functions
+  >	solving ODEs
+  >	plotting graphs
+  >	creating graphics
   
 * Introduction to Simulink
 
