@@ -17,8 +17,8 @@ The following topics will be covered-
   4.	creating graphics
   
 * Introduction to Simulink
-  1.Some fundamental mathematical blocks 
-  2.Modelling systems with block diagrams
+  1. Some fundamental mathematical blocks 
+  2. Modelling systems with block diagrams
  
 *	Analysing a physical system using the concepts of Control Theory
   1. Make a beautiful simulation of the system using MATLAB graphics 
