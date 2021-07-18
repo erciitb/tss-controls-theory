@@ -11,16 +11,18 @@ This week we will learn about:
 The following topics will be covered-
 
 *	Introduction to MATLAB
-  1. creating matrices and functions <br>
-  2.	solving ODEs <br>
-  3.	plotting graphs <br>
+  1. creating matrices and functions 
+  2.	solving ODEs 
+  3.	plotting graphs 
   4.	creating graphics
+  
 * Introduction to Simulink
-  *	Some fundamental mathematical blocks <br>
-  *	Modelling systems with block diagrams
+  1.Some fundamental mathematical blocks 
+  2.Modelling systems with block diagrams
+ 
 *	Analysing a physical system using the concepts of Control Theory
-  * Make a beautiful simulation of the system using MATLAB graphics <br>
-  * Create a block diagram of the physical system in Simulink and look at its behaviour
+  1. Make a beautiful simulation of the system using MATLAB graphics 
+  2. Create a block diagram of the physical system in Simulink and look at its behaviour
 
 
 
