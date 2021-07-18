@@ -9,6 +9,7 @@ This week we will learn about:
 *	Introduction to PID Control
 
 The following topics will be covered-
+
 *	Introduction to MATLAB
   *	creating matrices and functions
   *	solving ODEs
