@@ -11,10 +11,10 @@ This week we will learn about:
 The following topics will be covered-
 
 *	Introduction to MATLAB
-  * creating matrices and functions <br>
-  *	solving ODEs <br>
-  *	plotting graphs <br>
-  *	creating graphics
+  1. creating matrices and functions <br>
+  2.	solving ODEs <br>
+  3.	plotting graphs <br>
+  4.	creating graphics
 * Introduction to Simulink
   *	Some fundamental mathematical blocks <br>
   *	Modelling systems with block diagrams
