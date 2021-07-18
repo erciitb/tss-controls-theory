@@ -12,20 +12,20 @@ The following topics will be covered-
 
 *	Introduction to MATLAB
 
-  > creating matrices and functions
-  >	solving ODEs
-  >	plotting graphs
+  > creating matrices and functions <br>
+  >	solving ODEs <br>
+  >	plotting graphs <br>
   >	creating graphics
   
 * Introduction to Simulink
 
-  *	Some fundamental mathematical blocks
-  *	Modelling systems with block diagrams
+  >	Some fundamental mathematical blocks <br>
+  >	Modelling systems with block diagrams
   
 *	Analysing a physical system using the concepts of Control Theory
 
-  * Make a beautiful simulation of the system using MATLAB graphics
-  * Create a block diagram of the physical system in Simulink and look at its behaviour
+  > Make a beautiful simulation of the system using MATLAB graphics <br>
+  > Create a block diagram of the physical system in Simulink and look at its behaviour
 
 
 
