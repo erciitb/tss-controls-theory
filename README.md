@@ -17,5 +17,5 @@ The relevant week-wise resources would be provided on the ERC Github page. Intri
 - Week 4: Working on the final assignment. 
 
 ### Course Completion
-All the assignments must be solved and submitted. The assignments and solving process should be well-documented. These assignments would then be graded, and everyone clearing a cut-off would be given certificates.
+All the assignments must be solved and submitted. These assignments would then be graded, and certificates would be awarded based on the performance.
 
