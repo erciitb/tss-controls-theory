@@ -12,7 +12,7 @@ The relevant week-wise resources would be provided on the ERC Github page. Intri
 
 ### Timeline
 - Week 1: Introduction to Control systems and general mathematics. Introduction to PID control.
-- Week 2: Very basic python and learning about PID tuning by simulating a PID-based Line Follower using stub code provided using the pygame library.
+- Week 2: Very basic Python and learning about PID tuning by simulating a PID-based Line Follower using stub code provided using the pygame library.
 - Week 3: Introduction to MATLAB and Simulink, with a focus on the key functions required for implementing a controls system. Introduction to the problem statement of an inverted pendulum.
 - Week 4: Working on the final assignment. 
 
