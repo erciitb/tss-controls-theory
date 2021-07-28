@@ -2,7 +2,7 @@
 
 Given the growing importance of controls theory in various engineering fields, it becomes essential to have its fundamentals clear. By the end of the course, you will be versed with the basics of Control theory and its vivid applications, the use of software such as MATLAB and Simulink for modelling and simulating systems like a PID Controller and Inverted Pendulum, solving interesting engineering problem statements, etc.
 
-The relevant week-wise resources would be provided on the ERC Github page. Intriguing Midterm and Endterm assignments will be given which will focus on the application part of concepts covered. Doubt sessions would be conducted on demand. The workshop will be followed by an expert’s talk, to get you familiarized with the real-life implementation of controls theory in the ongoing world.
+The relevant week-wise resources would be provided on the ERC Github page. Intriguing Midterm and Endterm assignments will be given which will focus on the application part of concepts covered. Doubt sessions would be conducted on demand.
 
 ### Start Date
 4th July 2021
